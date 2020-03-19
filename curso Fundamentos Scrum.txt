@@ -1,0 +1,62 @@
+curso de fundamentos de scrum
+video1-introduccion a srum
+-framework de srum se utiliza ampliamente en 
+	portafolios
+	programas
+	proyectos de cualquier industria
+	productos
+	servicios
+	cualquier otro entregable 
+	proyecto de cualquier tamaño o complejidad
+producto:se refiere a un producto, servicio o cualquier entregable
+
+video2-PAnoramica de Scrum
+.un proyecto de srum consiste en un esfuerzo de colaboracion para crear un nuevo product, servicio u otro resultado tal como se define en la delcaracion de la vision del proyecto
+.los proyectos se ven afectados por limitaciones de:
+-tiempo
+-costo
+-alcance
+-calidad
+-recursos
+-capacidades organizacionales
+-otros limitaciones
+que lo hacen dificiles de planificar, ejecutar, administrar y finalmente tener exito
+.que es Scrum?
+- es uno de los metodos agiles mas populares
+-se trata de un diseño de metodologia de adaptacion, iterativo, rapido, flexible y eficaz diseñado para ofrecer un valor considerable en forma rapida a lo largo del proyecto
+-srum garantiza transparencia en la comunicacion
+-crea un ambiente de responsabilidad colectiva y de progreso continuo
+-Srum esta estructurado de tal manera que es compatible con el desarrollo de productos y servicios
+.por que scrum es mejor en comparacion a otras tecnicas de gestion de proyectos?
+una fortaleza clave de scrum radica en el uso de equipos interfuncionales, auto-organizados y empoderados que dividen su trabajo en ciclos de trabajo cortos y concentrados llamados sprints
+.sprints?
+son breves periodos donde se debe hacer cierta cantidad de trabajo
+.el ciclo de scrum empieza
+-con una reunion de stakeholders durante la cual se crea la vision del proyecto
+-el product owner desarrolla un Backlog Priorizado del producto que contiene una lista de requerimientos del negocio y del proyecto con orden de importanciaen forma de una historia de usuario
+-cada sprint empieza con una reunion de planificacion del sprint donde se consideran las historias de usuario de alta prioridad para su inclusion en el sprint, un srpint suele durar entre una y seis semanas en el cual el equipo scrum trabaja en la creacion de entregables potencialmente listos, o incrementos del producto
+	durante el sprint las reuniones diarias de Standup cortas y muy centradas se llevan a cabo donde los miembros del equipo discuten el progreso diario
+	hacia el final del sprint, se lleva a cabo una reunion de revision del sprint en el cual se proporciona una demostracion de los entregables al Product Owner y a los stakeholders relevantes.
+	el Product Owner acepta los entregables solo si cumplen con los criterios de aceptacion predefinidos.
+	el ciclo del sprint termina con una reunion de retrospectiva del sprint donde el equipo analiza las formas de mejorar los procesos y el rendimiento a medida que avanzan al siguiente sprint
+
+Video3-Historia de Scrum
+Scrum tuvo sus inicios en la decada de los 80s(1980), a mediados de la decada de los 80s Hirotaka Takeuchi y Ikujiro Nonaka definieron una estrategia de desarrollo de producto flexible e incluyente
+.Tiempo despues ken schwaber y jeff sutherland elaboraron sobre el concepto y su aplicabilidad al dessarrollo de software durante una presentacion en la conferencia internacional sobre programacion, lenguajes y aplicaciones orientadas a objetos 
+
+Video 4-Por que utilizar Scrum?
+-Adaptabilidad: Principios de control del proceso empirico y desarrollo iterativo hacen que los proyectos sean adaptables y abiertos a la incorporacion del cambio. Los procesos de Scrum estan diseñados para aceptar el cambio. 
+-Su enfoque es el cliente: Poner enfasisi en el valor del negocio y tener un enfoque de colaboracion con los stakeholders asegura un framework orientado al cliente en un proyecto de Scrum.
+-entrega continua de valor: Es un beneficio adicional como resultado del enfoque en el cliente. Los procesos iterativos permiten la entrega continua de valor tan frecuentemente a travez del proceso de Enviar entregables. Cada Sprint genera un producto, servicio o resultado potencialmente enviable
+-Entrega anticipada de alto valor: El proceso de crear el Backlog Priorizado del producto asegura que los requisitos de mayor valor del cliente sean los primeros en cumplirse. 
+-Retroalimentacion continua: Se proporciona a traves de los procesos de Realizar el Daily Standup y demostrar y validar el sprint.
+-Transparencia: todos los radiadores de informacion tales como un Scrumboard y el Sprint Burndown Chart se muestran y se actuallizan constantemente lo cual conduse a un ambiente de trabajo abierto. en la reunion de revision del sprint se muestra a los stakeholders los productos potencialmente enviables manteniendolos completamente informados sobre el estado actual y el avance del proyecto. La trasparencia mejora el importante beneficio del ambiente de alta confianza.los procesoso de realizar el Daily standup y la Retrospectiva del Sprint promueve la transparencia y colaboracion, esto lleva a un ambiente de trabajo de alta confianza que garantiza una baja friccion entre los empleados.
+-Mejora continua: A medida que avanza el proyecto, los entregables se mejoran progresivamente sprint por sprint incorporando cambios y mejoramientos mediante el proceso de Refinammiento del Backlog Priorizado del Producto.
+-Ritmo sostenible: 
+
+
+
+
+
+
+
